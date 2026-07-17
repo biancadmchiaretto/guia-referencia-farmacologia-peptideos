@@ -3,7 +3,7 @@
 Ferramenta de consulta rápida com fichas de peptídeos, siglas farmacológicas e conceitos de farmacologia geral, com fonte citada em cada dado.
 
 **Autora:** Bianca D. M. Chiaretto
-**Contato:** biancachiaretto@gmail.com
+**Contato:** [biancachiaretto@gmail.com](mailto:biancachiaretto@gmail.com) · [LinkedIn](https://www.linkedin.com/in/bianca-durao-martins-chiaretto/) · [GitHub](https://github.com/biancadmchiaretto)
 
 > ⚠️ Ferramenta de estudo — uso educacional/profissional. Não constitui orientação médica e não substitui literatura científica original, bula ou avaliação clínica individualizada. Peptídeos "não aprovados" citados aqui não têm respaldo regulatório para uso terapêutico humano. Status regulatório muda com frequência — sempre confira na fonte oficial antes de uso clínico/acadêmico.
 
